@@ -2,7 +2,7 @@
 <h3 align="center">"Aspiring Tech Explorer 🌐 | Computer Science Student 💻 | Passionate about Conquering Coding Challenges 🚀</h3>
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caio_pompei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-pompei-campos-9a6658267) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-pompei-campos-9a6658267) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

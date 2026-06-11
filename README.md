@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Software Engineer working with .NET and industrial automation.  <br>Experienced in SCADA integration, and real-time data services.</p>
+<p align="left">Software Engineer working with .NET, GO and industrial automation.  <br>Experienced in SCADA integration, and real-time data services.</p>
 
 ###
 

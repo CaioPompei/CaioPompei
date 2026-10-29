@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Caio%20Pompei&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Integrations%20%E2%80%A2%20Industrial%20Automation&descAlignY=58&descSize=16" width="100%" alt="Caio Pompei" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Caio%20Pompei&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%" alt="Caio Pompei" />
 
 <a href="https://github.com/CaioPompei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=I+build+web+apps+and+MVPs+that+ship+fast;I+add+AI+to+products+that+need+it;I+connect+factories+to+real-time+data" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Full+stack+developer;Building+things+from+database+to+UI;Graphics%2C+web+and+mobile" alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="mailto:caiopompei@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20freelance-Hire%20me-2ea44f?style=for-the-badge" alt="Open to freelance" /></a>
 <a href="mailto:caiopompei@gmail.com"><img src="https://img.shields.io/badge/Email-caiopompei%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -17,12 +16,12 @@
 
 ### 👋 About me
 
-I'm a full stack developer from Brazil 🇧🇷 working with **.NET, Go and Python**, and I build products end to end: from the database to the interface.
+I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end to end, from the database to the interface.
 
-- 🌐 **Web apps & MVPs**: front-end and back-end, delivered fast and production-ready
-- 🤖 **AI integrations**: chatbots, automations and LLM-powered features for businesses
-- 🏭 **Industrial automation**: SCADA integration and real-time data services
-- 💬 Fluent in English, comfortable with calls and async work across time zones
+- 🌐 **Web**: front-end and back-end with .NET, Go, Python and JavaScript
+- 📱 **Mobile**: Android apps in Kotlin
+- 🎮 **Graphics**: real-time rendering with OpenGL and GLSL
+- 💬 Fluent in English
 
 ---
 
@@ -55,9 +54,8 @@ I'm a full stack developer from Brazil 🇧🇷 working with **.NET, Go and Pyth
 
 ---
 
-### 🤝 Let's work together
+### 📫 Contact
 
-Need a web app, an MVP, an AI feature or a real-time data integration?
-**[Send me an email](mailto:caiopompei@gmail.com)** and tell me about your project.
+**[caiopompei@gmail.com](mailto:caiopompei@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />

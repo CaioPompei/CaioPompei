@@ -45,9 +45,24 @@ I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end t
 
 ### 🚀 Featured projects
 
+<p align="center">
+  <a href="https://github.com/CaioPompei/NonEucGameEngine"><img src="https://raw.githubusercontent.com/CaioPompei/NonEucGameEngine/main/docs/impossible-corridor.gif" alt="NonEucGameEngine: a door that opens straight into the next room, while the way back is a 20-metre corridor" width="640" /></a>
+</p>
+
+**Games**
+
 | Project | What it is | Stack |
 |---|---|---|
-| [**NonEucGameEngine**](https://github.com/CaioPompei/NonEucGameEngine) | A game engine with **non-Euclidean portals** rendered recursively through the stencil buffer, plus Phong lighting, cubemap shadows, physics and JSON-driven levels | Python · OpenGL 3.3 · GLSL |
+| [**NonEucGameEngine**](https://github.com/CaioPompei/NonEucGameEngine) | A non-Euclidean game engine built from scratch to create **impossible spaces**: recursive stencil-buffer portals, Phong lighting, cubemap shadows, physics and JSON-driven levels | Python, OpenGL 3.3, GLSL |
+| [**Counting Bullets**](https://moissa.itch.io/counting-bullet) | Team FPS for **GMTK Game Jam 2026**. I built shooting, reloading, scoring, the map, enemy waves and the mission board | Godot 4, GDScript |
+| [**Try Hit Me**](https://github.com/CaioPompei/Try_hit_me) | Top-down survival shooter made as a team. I built the menus, HUD, enemies and balancing, and composed the theme music | Godot 4, GDScript |
+
+**Web**
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Talita Miguel**](https://talita-miguel.vercel.app) | Portfolio site for a photographer and videomaker | Astro |
+| [**Lâmina**](https://github.com/CaioPompei/Lamina) | Concept site for a multi-location barbershop, one page per location from a single data file | Astro, TypeScript |
 
 ---
 

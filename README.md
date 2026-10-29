@@ -19,7 +19,6 @@
 I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end to end, from the database to the interface.
 
 - 🌐 **Web**: front-end and back-end with .NET, Go, Python and JavaScript
-- 📱 **Mobile**: Android apps in Kotlin
 - 🎮 **Graphics**: real-time rendering with OpenGL and GLSL
 - 💬 Fluent in English
 
@@ -36,7 +35,6 @@ I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL" title="OpenGL" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
@@ -50,7 +48,6 @@ I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end t
 | Project | What it is | Stack |
 |---|---|---|
 | [**NonEucGameEngine**](https://github.com/CaioPompei/NonEucGameEngine) | A game engine with **non-Euclidean portals** rendered recursively through the stencil buffer, plus Phong lighting, cubemap shadows, physics and JSON-driven levels | Python · OpenGL 3.3 · GLSL |
-| [**WebSave**](https://github.com/CaioPompei/WebSave) | Android app to save and trim media from shared links, with Quick Settings tile, presets and format/quality picker | Kotlin · Android |
 
 ---
 

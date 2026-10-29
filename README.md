@@ -45,10 +45,6 @@ I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end t
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/CaioPompei/NonEucGameEngine"><img src="https://raw.githubusercontent.com/CaioPompei/NonEucGameEngine/main/media/impossible-corridor.gif" alt="NonEucGameEngine: a door that opens straight into the next room, while the way back is a 20-metre corridor" width="640" /></a>
-</p>
-
 **Games**
 
 | Project | What it is | Stack |

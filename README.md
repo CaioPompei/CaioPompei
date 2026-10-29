@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Caio%20Pompei&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%" alt="Caio Pompei" />
 
 <a href="https://github.com/CaioPompei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Software+Engineer;.NET+%C2%B7+Go+%C2%B7+Python;Based+in+Brazil" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Software+Engineer;.NET+%C2%B7+Go+%C2%B7+Python" alt="Typing intro" />
 </a>
 
 <br/>

@@ -16,7 +16,7 @@
 
 ### 👋 About me
 
-I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end to end, from the database to the interface.
+I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end to end, focusing on the user experience.
 
 - 🌐 **Web**: front-end and back-end with .NET, Go, Python and JavaScript
 - 🎮 **Graphics**: real-time rendering with OpenGL and GLSL

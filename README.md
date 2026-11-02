@@ -57,7 +57,7 @@ I'm a full stack developer from Brazil 🇧🇷 who enjoys building things end t
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Talita Miguel**](https://bytalitamiguel.com.br) | Portfolio site for a photographer and videomaker | Astro |
+| [**Talita Miguel**](https://www.bytalitamiguel.com.br) | Portfolio site for a photographer and videomaker | Astro |
 | [**Lâmina**](https://github.com/CaioPompei/Lamina) | Concept site for a multi-location barbershop, one page per location from a single data file | Astro, TypeScript |
 
 ---
